@@ -5,10 +5,8 @@ def new_hash
 end
 
 def my_hash
-{
-    name: "chana"
+{  name: "chana"
     age: 31
-    eye_color: "blue"
   }
   # return a valid hash with any key/value pair of your choice
 end
