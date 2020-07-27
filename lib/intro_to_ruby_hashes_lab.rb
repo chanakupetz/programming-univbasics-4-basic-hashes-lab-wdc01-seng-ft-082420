@@ -5,7 +5,7 @@ def new_hash
 end
 
 def my_hash
-  who_i_am = {
+{
     :name => "chana"
     :age => 31
     :eye_color => "blue"
